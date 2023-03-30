@@ -1,0 +1,10 @@
+PROGRAM LEQUYNHLAN;
+VAR x, y, z;
+BEGIN
+x := 1;
+IF x > 10 THEN
+	x := 2 * 21 + 5;
+ELSE
+	x := 2;
+CALL ABC;
+END.
